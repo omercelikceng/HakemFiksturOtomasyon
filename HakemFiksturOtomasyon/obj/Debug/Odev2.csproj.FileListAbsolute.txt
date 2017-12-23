@@ -1,0 +1,45 @@
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev2SonHal\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache

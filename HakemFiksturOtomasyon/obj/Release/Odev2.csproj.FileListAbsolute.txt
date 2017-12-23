@@ -1,0 +1,94 @@
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Desktop\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Odev2Bitti(160513)\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.FiksturFile.FiksturForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Downloads\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Ödevlerim\Tasarım Desenleri\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.FiksturFile.FiksturForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Yeni klasör\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.FiksturFile.FiksturForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Ödev3\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.FiksturFile.FiksturForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache

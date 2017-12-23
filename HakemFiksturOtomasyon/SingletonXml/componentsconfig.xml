@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<components>
+  <textbox tip="birinci">
+    <textcolor>blue</textcolor>
+    <bgcolor>WhiteSmoke</bgcolor>
+    <font>Verdana</font>
+    <font-size>13</font-size>
+    <cursor>SizeWE</cursor>
+  </textbox>
+  
+  <textbox tip="ikinci">
+    <textcolor>Red</textcolor>
+    <bgcolor>Thistle</bgcolor>
+    <font>Trebuchet MS</font>
+    <font-size>12</font-size>
+    <cursor>PanNE</cursor>
+  </textbox>
+  
+  <textbox tip="ucuncu">
+    <textcolor>Black</textcolor>
+    <bgcolor>Gainsboro</bgcolor>
+    <font>Arial</font>
+    <font-size>12</font-size>
+    <cursor>PanNW</cursor>
+  </textbox>
+
+  <button tip="birinci">
+    <textcolor>Navy</textcolor>
+    <bgcolor>Lavender</bgcolor>
+    <font>Franklin Gothic</font>
+    <font-size>12</font-size>
+    <cursor>Hand</cursor>
+  </button>
+  
+  <button tip="ikinci">
+    <textcolor>Crimson</textcolor>
+    <bgcolor>Honeydew</bgcolor>
+    <font>Trebuchet MS</font>
+    <font-size>13</font-size>
+    <cursor>NoMoveVert</cursor>
+  </button>
+  
+  <button tip="ucuncu">
+    <textcolor>DodgerBlue</textcolor>
+    <bgcolor>PaleGreen</bgcolor>
+    <font>Georgia</font>
+    <font-size>13</font-size>
+    <cursor>NoMoveHoriz</cursor>
+  </button>
+
+  <combobox tip="birinci">
+    <textcolor>DarkBlue</textcolor>
+    <bgcolor>WhiteSmoke</bgcolor>
+    <font>Franklin Gothic</font>
+    <font-size>12</font-size>
+    <cursor>upArrow</cursor>
+  </combobox>
+  
+  <combobox tip="ikinci">
+    <textcolor>Red</textcolor>
+    <bgcolor>OldLace</bgcolor>
+    <font>Arial</font>
+    <font-size>12</font-size>
+    <cursor>PanSouth</cursor>
+  </combobox>
+  
+  <combobox tip="ucuncu">
+    <textcolor>Black</textcolor>
+    <bgcolor>LightCyan</bgcolor>
+    <font>Trebuchet MS</font>
+    <font-size>12</font-size>
+    <cursor>PanWest</cursor>
+  </combobox>
+
+  <panel tip="birinci">
+    <bgcolor>Snow</bgcolor>
+  </panel>
+  
+  <panel tip="ikinci">
+    <bgcolor>White</bgcolor>
+  </panel>
+  
+  <panel tip="ucuncu">
+    <bgcolor>SeaShell</bgcolor>
+  </panel>
+
+  <datagridview tip="birinci">
+    <cursor>PanNorth</cursor>
+  </datagridview>
+
+  <datagridview tip="ikinci">
+    <cursor>PanNE</cursor>
+  </datagridview>
+
+  <datagridview tip="ucuncu">
+    <cursor>PanNW</cursor>
+  </datagridview>
+</components>

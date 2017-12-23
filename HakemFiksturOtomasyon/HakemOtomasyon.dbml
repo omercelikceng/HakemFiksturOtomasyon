@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HakemOtomasyon" Class="HakemOtomasyonDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=HakemOtomasyon;Integrated Security=True" SettingsObjectName="HakemFiksturOtomasyon.Properties.Settings" SettingsPropertyName="HakemOtomasyonConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Fikstur" Member="Fiksturs">
+    <Type Name="Fikstur">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ilkTakim" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ikinciTakim" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tarih" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="saat" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="hafta" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="lig" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="ortaHakem" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="yardimciHakem" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="dorduncuHakem" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="stadyum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Hakem" Member="Hakems">
+    <Type Name="Hakem">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="adi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="soyadi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="turu" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="klasmani" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="bolgesi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="referansHakem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Hakem_Hakem" Member="Hakems" ThisKey="id" OtherKey="referansHakem" Type="Hakem" />
+      <Association Name="Hakem_Hakem" Member="Hakem1" ThisKey="referansHakem" OtherKey="id" Type="Hakem" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lig" Member="Ligs">
+    <Type Name="Lig">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="adi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Lig_Takim" Member="Takims" ThisKey="id" OtherKey="ligId" Type="Takim" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sehir" Member="Sehirs">
+    <Type Name="Sehir">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="adi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Sehir_Stadyum" Member="Stadyums" ThisKey="id" OtherKey="sehirId" Type="Stadyum" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Stadyum" Member="Stadyums">
+    <Type Name="Stadyum">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="adi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="sehirId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="diger" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Sehir_Stadyum" Member="Sehir" ThisKey="sehirId" OtherKey="id" Type="Sehir" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Takim" Member="Takims">
+    <Type Name="Takim">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="adi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ligId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="diger" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Lig_Takim" Member="Lig" ThisKey="ligId" OtherKey="id" Type="Lig" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

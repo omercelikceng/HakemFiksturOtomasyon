@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\bin\Debug\HakemFiksturOtomasyon.exe.config
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.Properties.Resources.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\bin\Debug\HakemFiksturOtomasyon.exe
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\bin\Debug\HakemFiksturOtomasyon.pdb
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.AnaFormFile.AnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.FiksturFile.FiksturForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.HakemFile.HakemAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.HakemFile.HakemGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.StadFile.StadAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.StadFile.StadGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.TakimFile.TakimAnaForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.View.TakimFile.TakimGuncelleForm.resources
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.exe
+C:\Users\Omer\Desktop\Projelerim\ÖmerÇELİK_201213171013\HakemFiksturOtomasyon\HakemFiksturOtomasyon\obj\Debug\HakemFiksturOtomasyon.pdb

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.875" name="HakemOtomasyon">
+  <DataContextMoniker Name="/HakemOtomasyonDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ed21e6ad-8108-4384-bc0f-fcf86826e327" absoluteBounds="0.75, 6.75, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Fikstur" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a38f5bf-a805-422a-97d5-69036159fc30" absoluteBounds="0.765, 7.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="58e32eef-cb24-4ca1-a156-84f4dc877311" absoluteBounds="0.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Hakem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da78e523-a16a-4dd9-a974-8fca0672b432" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b54c3385-1181-40d5-8d6f-c079263b182c" absoluteBounds="3.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Lig" />
+      <nestedChildShapes>
+        <elementListCompartment Id="11affbb9-6a7b-45c6-8352-24038abfdc83" absoluteBounds="3.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cce5d239-28ba-4876-8c1c-526956866c9f" absoluteBounds="0.75, 4.125, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Sehir" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea62c87c-8ce2-4c16-bca0-b6b353521e08" absoluteBounds="0.765, 4.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="638f35a1-01ee-4cce-a9af-0109b53354a3" absoluteBounds="3.5, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Stadyum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b6773d22-f432-45ca-b898-e02105564d78" absoluteBounds="3.515, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb777d59-3526-43bb-a4f4-af20c796755f" absoluteBounds="6.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/HakemOtomasyonDataContext/Takim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0748087e-8f70-4ad9-a938-af335e80691d" absoluteBounds="6.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.45923076923077 : 2.90549967447917); (1.45923076923077 : 3.15549967447917); (2.05461538461538 : 3.15549967447917); (2.05461538461538 : 2.90549967447917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/HakemOtomasyonDataContext/Hakem/Hakem_Hakem" />
+      <nodes>
+        <classShapeMoniker Id="58e32eef-cb24-4ca1-a156-84f4dc877311" />
+        <classShapeMoniker Id="58e32eef-cb24-4ca1-a156-84f4dc877311" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.72199625651042); (3.5 : 4.72199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/HakemOtomasyonDataContext/Sehir/Sehir_Stadyum" />
+      <nodes>
+        <classShapeMoniker Id="cce5d239-28ba-4876-8c1c-526956866c9f" />
+        <classShapeMoniker Id="638f35a1-01ee-4cce-a9af-0109b53354a3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 1.72199625651042); (6.5 : 1.72199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/HakemOtomasyonDataContext/Lig/Lig_Takim" />
+      <nodes>
+        <classShapeMoniker Id="b54c3385-1181-40d5-8d6f-c079263b182c" />
+        <classShapeMoniker Id="bb777d59-3526-43bb-a4f4-af20c796755f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
